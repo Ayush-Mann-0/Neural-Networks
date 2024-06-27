@@ -1,7 +1,3 @@
-/**
- * Create basic neuron with 3 inputs in Javascript.
- */
-
 let inputs = [1.2, 5.1, 2.1];
 let weights = [3.1, 2.1, 8.7];
 let bias = 3.0
