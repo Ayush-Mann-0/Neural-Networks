@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class P004LayersAndObjects {
+public class L4LayersAndObjects {
     public static void main(String[] args) {
         double[][] X = {
                 {1.0, 2.0, 3.0, 2.5},
