@@ -1,8 +1,3 @@
-/*
-Creates a simple layer of neurons using dot product.
-Associated YT NNFS tutorial: https://www.youtube.com/watch?v=tMrbN67U9d4
-*/
-
 const math = require("mathjs");
 
 const inputs = [1.0, 2.0, 3.0, 2.5];
