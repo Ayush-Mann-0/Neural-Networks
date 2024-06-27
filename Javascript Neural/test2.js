@@ -1,10 +1,3 @@
-/**
- * 
- * Create a simple neuron with 4 inputs
- * Associated YT NNFS tutorial: https://www.youtube.com/watch?v=lGLto9Xd7bU
- * 
- */
-
 let inputs = [1.0, 2.0, 3.0, 2.5];
 
 let weights1 = [0.2, 0.8, -0.5, 1.0];
