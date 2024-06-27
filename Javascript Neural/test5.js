@@ -1,12 +1,5 @@
-/*
-Creates a dense layer of neurons with a ReLU activation function, and feeds forward inputs through them.
-Associated YT tutorial: https://www.youtu.be/gmjzbpSVY1A
-*/
-
 const math = require("mathjs");
 
-// Moved this code from spiral-data.js written by @vancegillies
-// Updated by @daniel-kukiela
 function spiral_data(points, classes) {
   // Using MathJs functions to make matrices with zeros but converting to arrays for simplicity
   const X = math.zeros(points * classes, 2).toArray();
