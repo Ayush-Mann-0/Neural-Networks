@@ -1,4 +1,4 @@
-**## Basic Neural Network**
+**Basic Neural Network**
 
 This project delves into the exciting world of neural networks (NNs) by implementing them in Python, Java, and JavaScript. Get hands-on experience with various NN techniques and algorithms, building a strong foundation for further exploration in this powerful machine learning domain.
 
