@@ -1,8 +1,3 @@
-/*
-Creates two simple layers of neurons, and feeds forward inputs through them.
-Associated YT tutorial: https://youtu.be/TEWy9vZcxW4
-*/
-
 const math = require("mathjs");
 
 const X = math.matrix([
