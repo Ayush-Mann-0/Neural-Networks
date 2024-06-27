@@ -4,8 +4,8 @@ This project delves into the exciting world of neural networks (NNs) by implemen
 
 **Inspiration:**
 
-* Neural Networks from Scratch (NNFS) Book [Credit NNFS BOOK]
-* Sentdex YouTube Channel [@sentdex (YouTube)]
+* Neural Networks from Scratch (NNFS) Book.
+* Sentdex YouTube Channel.
 
 **Project Focus:**
 
